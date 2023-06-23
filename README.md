@@ -1,4 +1,4 @@
-# Color-Palette-in-JavaScript
+# Color-Palette
 
 Created a Color Palette in HTML, CSS, and JavaScript form where you can use different colors with their hashcodes. You can just click on the particular color and use the hashcode in your code file. 
 
