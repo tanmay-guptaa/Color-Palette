@@ -49,6 +49,6 @@ To run the Color Palette project locally, follow these steps:
 
 Contributions to the Color Palette project are welcome and encouraged! If you have any improvements or new features to add, feel free to fork the repository and submit a pull request.
 
-Click to see Demo:
+View Demo:
 
 https://colortemplate.netlify.app/
