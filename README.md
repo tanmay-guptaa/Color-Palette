@@ -1,15 +1,54 @@
 # Color-Palette
 
-Created a Color Palette in HTML, CSS, and JavaScript form where you can use different colors with their hashcodes. You can just click on the particular color and use the hashcode in your code file. 
+The Color Palette project is a web application that generates a random color palette. Each color in the palette is displayed as a rectangular box with its corresponding hex value. Users can click on a color to copy its hex value to the clipboard.
 
-1. You can refresh new colors by clicking on Refresh Button every time and copy the color hashcode of your choice.  
+**Table of Contents**
+1. Description
+2. Installation
+3. Usage
+4. Contributing
 
-![Untitled](https://user-images.githubusercontent.com/119430497/217600826-89ac6d81-fef9-4691-8e8d-4d84b9d0526a.png)
 
-2. After clicking you can choose the color template which you want and click on that template to get your desired color hash code and copy it to the clipboard.
+**Description**
+
+The Color Palette project generates a color palette consisting of rectangular color boxes. Each box represents a random hex color value. The hex value is displayed below the color box. Users can click on a color box to copy its hex value to the clipboard. The project utilizes HTML, CSS, and JavaScript to dynamically generate and display the color palette.
 
 ![Untitled1](https://user-images.githubusercontent.com/119430497/217601949-3b00be0b-c383-45ed-814a-1dd17545ba68.png)
 
-Check Live Demo:
+
+**Installation**
+
+To run the Color Palette project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+ 
+   ```bash
+   git clone <repository-url>
+   ```
+2. Open the project directory.
+   
+   ```bash
+   cd color-palette
+   ```
+   
+3. Open the index.html file in your preferred web browser.
+
+
+**Usage**
+
+1. Open the Color Palette application in your web browser.
+2. The application will display a color palette consisting of rectangular color boxes.
+3. Each color box represents a random hex color value.
+4. Click on a color box to copy its hex value to the clipboard.
+5. The hex value will be temporarily changed to "Copied" to indicate that it has been copied.
+6. After a brief period, the hex value will return to its original value.
+7. Click the "Click To Refresh" button to generate a new color palette with different colors.
+
+
+**Contributing**
+
+Contributions to the Color Palette project are welcome and encouraged! If you have any improvements or new features to add, feel free to fork the repository and submit a pull request.
+
+Click to see Demo:
 
 https://colortemplate.netlify.app/
